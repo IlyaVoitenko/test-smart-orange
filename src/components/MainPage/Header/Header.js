@@ -3,11 +3,11 @@ import HeaderItem from "./HeaderItem";
 import style from "./Header.module.css";
 const Header = () => {
   const links = [
-    { name: "ГЛАВНАЯ" },
-    { name: "ГАЛЕРЕЯ" },
-    { name: "ПРОЕКТЫ" },
-    { name: "СЕРИТФИКАТЫ" },
-    { name: "КОНТАКТЫ" },
+    { id: 1, name: "ГЛАВНАЯ" },
+    { id: 2, name: "ГАЛЕРЕЯ" },
+    { id: 3, name: "ПРОЕКТЫ" },
+    { id: 4, name: "СЕРИТФИКАТЫ" },
+    { id: 5, name: "КОНТАКТЫ" },
   ];
 
   return (
@@ -20,7 +20,7 @@ const Header = () => {
 
       <ul>
         {links.map((item) => {
-          return <HeaderItem nameBtn={item.name} />;
+          return <HeaderItem key={item.id} nameBtn={item.name} />;
         })}
       </ul>
     </div>

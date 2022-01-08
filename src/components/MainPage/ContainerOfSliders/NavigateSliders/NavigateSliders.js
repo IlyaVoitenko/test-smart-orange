@@ -6,6 +6,7 @@ const NavigateSliders = ({ next, previous }) => {
       <button className={style.btnNext} onClick={() => next()}>
         &larr;
       </button>
+      &nbsp;&nbsp;&nbsp;
       <button className={style.btnPrevious} onClick={() => previous()}>
         &rarr;
       </button>
