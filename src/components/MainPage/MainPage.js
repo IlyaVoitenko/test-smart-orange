@@ -1,9 +1,9 @@
-import SliderOfProject from "./Sliders/SliderOfProject";
+import ContainerOfSliders from "./ContainerOfSliders";
 
 const MainPage = () => {
   return (
     <div>
-      <SliderOfProject />
+      <ContainerOfSliders />
     </div>
   );
 };

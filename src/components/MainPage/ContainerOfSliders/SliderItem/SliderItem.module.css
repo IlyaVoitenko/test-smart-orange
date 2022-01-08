@@ -1,0 +1,16 @@
+.img {
+  float: right;
+  height: 100%;
+  width: 100%;
+}
+.slider {
+  height: 350px;
+}
+.btnShowInfoSlider {
+  position: absolute;
+  font-size: 16px;
+  background-color: white;
+  padding: 22px 24px;
+  border: none;
+  top: 288px;
+}
