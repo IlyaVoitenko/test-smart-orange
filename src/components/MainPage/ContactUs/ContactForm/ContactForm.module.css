@@ -1,0 +1,51 @@
+.container {
+  height: 600px;
+  width: 400px;
+  margin-left: 49%;
+}
+.condititonsText {
+  text-align: left;
+}
+.btnSubmit {
+  height: 50px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.815);
+  color: white;
+  width: 180px;
+  float: left;
+}
+.inputs {
+  border: none;
+  background-color: rgb(214, 214, 214);
+  height: 40px;
+  width: 100%;
+  margin-top: 10px;
+  display: block;
+}
+.inputs::placeholder {
+  padding-left: 10px;
+}
+.textarea::placeholder {
+  padding-left: 10px;
+}
+.textarea {
+  height: 180px;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  border: none;
+  background-color: rgb(214, 214, 214);
+}
+input:invalid {
+  color: brown;
+}
+input:invalid + .error {
+  display: block;
+  color: brown;
+}
+.divInput {
+  width: 100%;
+}
+.error {
+  display: none;
+}

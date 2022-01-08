@@ -19,7 +19,7 @@ const Sliders = () => {
     {
       id: 1,
       urlImg: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIdnf8ymLyVAK_C_5khkpGAfhprJNT4Dy1g&usqp=CAU`,
-      name: "Part of New York",
+      name: "Park of New York",
     },
     {
       id: 2,
