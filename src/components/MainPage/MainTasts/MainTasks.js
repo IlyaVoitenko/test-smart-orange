@@ -1,4 +1,4 @@
-import Title from "./Titile";
+import Title from "./Title";
 import TasksOfCompany from "./TasksOfCompany";
 const MainTasks = () => {
   return (

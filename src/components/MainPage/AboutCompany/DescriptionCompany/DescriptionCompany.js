@@ -4,7 +4,7 @@ const DescriptionCompany = () => {
   return (
     <div className={style.containerContant}>
       <p>
-        <h1 className={style.heading}>O КОМПАНИИ</h1>
+        <h1 className={style.heading}>O компании</h1>
       </p>
       <p>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy

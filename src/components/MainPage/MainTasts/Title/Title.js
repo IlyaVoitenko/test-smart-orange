@@ -1,4 +1,4 @@
-import style from "./Titile.module.css";
+import style from "./Title.module.css";
 
 const Title = () => {
   return (

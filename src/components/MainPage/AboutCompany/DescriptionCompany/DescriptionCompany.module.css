@@ -6,7 +6,8 @@
   text-align: left;
 }
 .heading {
-  color: grey;
+  color: rgb(214, 214, 214);
+  font-size: 50px;
 }
 .btnRead {
   height: 50px;
