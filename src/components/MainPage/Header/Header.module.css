@@ -1,0 +1,12 @@
+.container {
+  height: 50px;
+  width: 80%;
+  margin-left: 10%;
+}
+.icon {
+  padding-top: 20px;
+  padding-left: 100px;
+  float: left;
+  width: 20px;
+  height: 20px;
+}
