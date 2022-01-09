@@ -1,0 +1,14 @@
+.container span {
+  color: rgb(78, 78, 78);
+}
+.textAboutLaw {
+  margin-top: 10px;
+  margin-left: 40%;
+}
+.container {
+  border-top: 1px solid;
+  margin-top: 150px;
+  border-color: grey;
+  width: 100%;
+  height: 50px;
+}

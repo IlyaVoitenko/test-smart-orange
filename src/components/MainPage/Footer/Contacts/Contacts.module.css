@@ -1,0 +1,9 @@
+.container p {
+  text-align: left;
+  color: white;
+}
+.container {
+  margin-top: 36px;
+  margin-left: 100px;
+  width: 260px;
+}
