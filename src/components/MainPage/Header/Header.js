@@ -20,7 +20,7 @@ const Header = () => {
 
       <ul>
         {links.map((item) => {
-          return <HeaderItem key={item.id} nameBtn={item.name} />;
+          return <HeaderItem key={item.id} nameBtn={item.name} style={style} />;
         })}
       </ul>
     </div>

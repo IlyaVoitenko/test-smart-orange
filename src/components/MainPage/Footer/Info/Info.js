@@ -1,5 +1,5 @@
 import React from "react";
-import InfoItem from "./InfoItem";
+import HeaderItem from "../../Header/HeaderItem";
 import style from "./Info.module.css";
 
 const Info = () => {
@@ -15,7 +15,7 @@ const Info = () => {
       <span>Информация</span>
       <ul>
         {links.map((link) => {
-          return <InfoItem nameBtn={link.name} />;
+          return <HeaderItem nameBtn={link.name} style={style} />;
         })}
       </ul>
     </div>

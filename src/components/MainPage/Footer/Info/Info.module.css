@@ -4,6 +4,12 @@
   width: 150px;
   height: 250px;
 }
+.btn {
+  color: white;
+  border: none;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0);
+}
 .container * {
   float: left;
 }

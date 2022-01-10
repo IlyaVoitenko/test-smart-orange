@@ -1,7 +1,7 @@
 import React from "react";
-import style from "./HeaderItem.module.css";
+//import style from "./HeaderItem.module.css";
 
-const HeaderItem = ({ nameBtn }) => {
+const HeaderItem = ({ nameBtn, style }) => {
   return (
     <li className={style.list}>
       <button className={style.btn} href="#">
