@@ -1,0 +1,17 @@
+.containerContant {
+  margin-right: 290px;
+  margin-top: 20px;
+  float: right;
+  width: 400px;
+  text-align: left;
+}
+.heading {
+  color: rgb(214, 214, 214);
+  font-size: 50px;
+}
+.btnRead {
+  height: 50px;
+  width: 150px;
+  border: none;
+  background-color: white;
+}

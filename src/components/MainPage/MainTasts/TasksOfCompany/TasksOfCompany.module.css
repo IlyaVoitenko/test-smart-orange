@@ -1,0 +1,20 @@
+.container div {
+  margin-left: 230px;
+  float: left;
+}
+.descriptionOfTask {
+  width: 300px;
+  margin-top: 40px;
+  font-size: 18px;
+  text-align: left;
+}
+.description div {
+  margin-left: 10px;
+  float: left;
+}
+.numberOfTask {
+  font-size: 150px;
+  font-weight: 900;
+  color: rgb(214, 214, 214);
+  height: 170px;
+}

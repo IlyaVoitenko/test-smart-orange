@@ -1,0 +1,57 @@
+.container {
+  height: 600px;
+}
+.twoImgs img {
+  width: 550px;
+  height: 250px;
+  float: left;
+}
+#secondImg {
+  margin-left: 50px;
+}
+#imgWithBtn {
+  margin-left: 200px;
+}
+#middleImg {
+  height: 250px;
+}
+#firstImg {
+  height: 250px;
+  width: 310px;
+  margin-top: 30px;
+}
+#threeImg {
+  height: 250px;
+  width: 310px;
+}
+.threeImgs img {
+  margin-left: 36px;
+}
+.text {
+  color: whitesmoke;
+  position: absolute;
+  top: 192%;
+  width: 50px;
+  color: white;
+  font-size: 40px;
+  left: 300px;
+}
+.btn {
+  color: black;
+  left: 300px;
+  top: 210%;
+  height: 50px;
+  width: 150px;
+  position: absolute;
+  opacity: 0.7;
+  border: none;
+}
+.btnAllProject {
+  margin-top: 30px;
+  margin-left: 66%;
+  height: 50px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.815);
+  color: white;
+  width: 180px;
+}

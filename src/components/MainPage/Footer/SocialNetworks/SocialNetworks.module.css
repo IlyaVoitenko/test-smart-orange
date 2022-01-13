@@ -1,0 +1,12 @@
+.ulNetworks {
+  list-style-type: none;
+}
+.container > span {
+  margin-left: 80px;
+  color: white;
+}
+.container {
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 280px;
+}

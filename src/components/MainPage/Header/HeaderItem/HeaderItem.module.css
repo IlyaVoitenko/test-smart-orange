@@ -1,0 +1,18 @@
+.li {
+  background-color: white;
+  float: left;
+}
+.list {
+  padding-top: 10px;
+  margin-right: 40px;
+  list-style-type: none;
+  float: right;
+}
+.btn:hover {
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+}
+.btn {
+  border: none;
+  background-color: white;
+}

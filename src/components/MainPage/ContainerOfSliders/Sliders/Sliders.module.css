@@ -1,10 +1,11 @@
 .InfoAboutSlider {
   position: absolute;
-  margin-left: 100px;
+  margin-left: 150px;
   width: 400px;
   height: 350px;
 }
 .containerSlider {
   float: right;
   width: 800px;
+  margin-right: 150px;
 }

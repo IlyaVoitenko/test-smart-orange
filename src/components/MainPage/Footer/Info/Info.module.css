@@ -1,0 +1,23 @@
+.container {
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 150px;
+  height: 250px;
+}
+.btn {
+  color: white;
+  border: none;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.container * {
+  float: left;
+}
+.container ul {
+  list-style-type: none;
+}
+.container > span {
+  color: white;
+  float: right;
+  margin-right: 13px;
+}
